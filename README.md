@@ -1,4 +1,8 @@
-# elixr
+# MCMEelixr
+
+MCMEelixr is fork of elixr updated to work with CraftBukkit and Spigot 1.8.
+
+#elixr
 
 elixr is a utility API for Bukkit-based plugins. All classes contain static methods that you can use from your plugin - no other dependencies other than elixr itself. Elixr is being released as open source with the hope that you'll use and contribute new code!
 
